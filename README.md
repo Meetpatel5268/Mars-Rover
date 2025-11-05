@@ -136,11 +136,3 @@ src/
 └─ com/marsrover/Main.java     # Entry point
 ```
 
----
-
-## 🌟 Future Enhancements
-
-* Add multiple rovers with collision detection.
-* Support diagonal movement and advanced commands.
-* Graphical visualization of the rover on the grid.
----
