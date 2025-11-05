@@ -125,14 +125,4 @@ Final position: Rover is at (1, 3) facing NORTH.
 
 ---
 
-## 📂 Project Structure
-
-```
-src/
-├─ com/marsrover/command/      # Command pattern implementations
-├─ com/marsrover/grid/         # Grid, obstacles, and composite components
-├─ com/marsrover/rover/        # Rover logic and movement
-├─ com/marsrover/util/         # Utility classes (e.g., input parser)
-└─ com/marsrover/Main.java     # Entry point
-```
 
